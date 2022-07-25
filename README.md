@@ -1,7 +1,6 @@
 # Inventory-System
 Blueprint Inventory System
-# Inventory System
-Developed with Unreal Engine 4.24
+Developed with Unreal Engine 4.27
 
 **-- Le système d'inventaire en mode blueprints --**
 
@@ -11,7 +10,6 @@ L'aspect graphique est réduit au minimum, on ne s'en ossupe pas pour l'instant.
 Le système d'inventaire doit être simple, complet, modulable et customisable.
 Le système sera distribué gratuitement sous licence creative commons.
 La participation au projet est libre et gratuite.
-
 
 PRESENTATION :
 - Slot based Inventaire.
@@ -34,8 +32,7 @@ PRESENTATION :
 - Potions
 - Consumables
 - Quest items
-- Upgrades
-etc.,
+- Upgrades, etc.,
 
 L'onglet **Livres** contient :
 - la liste des livres trouvés (scroll box),
